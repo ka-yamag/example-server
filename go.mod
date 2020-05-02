@@ -1,3 +1,3 @@
-module github.com/katyamag/examplesrv
+module github.com/katyamag/example-server
 
 go 1.14
